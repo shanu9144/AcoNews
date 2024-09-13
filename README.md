@@ -1,9 +1,9 @@
 # News App
 
-A news app built with Node.js for the backend and React for the frontend, utilizing the GNews.io API to fetch and display news articles. The backend is deployed on Render, and the frontend is hosted on Firebase.
+A news app built with Node.js for the backend and React for the front end, utilizing the GNews.io API to fetch and display news articles. The backend is deployed on Render, and the front end is hosted on Firebase.
 
-![News App Screenshot](https://example.com/path/to/screenshot.png)  <!-- Replace with your actual image link -->
-![News App Recording](https://example.com/path/to/screenshot.png)  <!-- Replace with your actual image link -->
+![News App Screenshot](https://github.com/shanu9144/AcoNews/blob/master/Screenshot%202024-09-13%20162304.png)  
+![News App Recording](https://example.com/path/to/screenshot.png) 
 
 ## Features
 
